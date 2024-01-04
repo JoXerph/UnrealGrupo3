@@ -8906,3 +8906,12 @@ UnknownFunction []
 [2024.01.04-18.18.38:707][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.03 sec)
 [2024.01.04-18.18.38:710][839]AssetCheck: New page: Asset Save: BP_Cat
 [2024.01.04-18.18.38:710][839]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/Cat/BP_Cat.BP_Cat
+[2024.01.04-18.20.10:829][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-18.20.10:872][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters" FILE="../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Characters.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.04-18.20.10:911][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.04-18.20.10:923][607]LogSavePackage: Moving output files for package: /Game/Characters
+[2024.01.04-18.20.10:923][607]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/Characters5E13F02C41AA5E9CC838A29471C810A3.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Characters.umap'
+[2024.01.04-18.20.10:928][607]LogFileHelpers: Saving map 'Characters' took 0.058
+[2024.01.04-18.20.10:935][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 6.14 sec)
+[2024.01.04-18.20.10:936][607]AssetCheck: New page: Asset Save: Characters
+[2024.01.04-18.20.10:936][607]LogContentValidation: Display: Validating /Script/Engine.World /Game/Characters.Characters
