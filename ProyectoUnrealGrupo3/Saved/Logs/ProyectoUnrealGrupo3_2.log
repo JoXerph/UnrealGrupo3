@@ -8809,3 +8809,100 @@ UnknownFunction []
 [2024.01.04-17.53.03:191][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2024.01.04-17.53.03:216][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2024.01.04-17.53.03:278][403]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.04-18.00.26:948][767]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-18.00.27:039][768]LogViewport: Scene viewport resized to 473x181, mode Windowed.
+[2024.01.04-18.00.45:462][534]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-18.01.35:160][107]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-18.01.35:160][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-18.01.40:699][283]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-18.01.40:699][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-18.01.43:114][366]BlueprintLog: New page: Compile ABP_Cat
+[2024.01.04-18.01.43:165][366]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2024.01.04-18.01.43:911][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-18.01.43:983][391]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Cat/ABP_Cat
+[2024.01.04-18.01.43:983][391]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/ABP_Cat5CE9E8014C2582AE5DDD09A65A899A90.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Blueprints/Characters/Cat/ABP_Cat.uasset'
+[2024.01.04-18.01.43:990][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.76 sec)
+[2024.01.04-18.01.43:992][391]AssetCheck: New page: Asset Save: ABP_Cat
+[2024.01.04-18.01.43:992][391]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Cat/ABP_Cat.ABP_Cat
+[2024.01.04-18.11.52:932][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.01.04-18.11.52:934][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Characters' took 0.028
+[2024.01.04-18.11.52:934][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Cat/ABP_Cat] ([2] browsable assets)...
+[2024.01.04-18.11.52:934][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Cat/ABP_Cat]
+[2024.01.04-18.11.52:954][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Cat/ABP_Cat_Auto8
+[2024.01.04-18.11.52:954][ 46]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/ABP_Cat_Auto8542F38484895F7138B6A3E81814EAE43.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/Autosaves/Game/Blueprints/Characters/Cat/ABP_Cat_Auto8.uasset'
+[2024.01.04-18.11.52:956][ 46]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.01.04-18.16.50:567][695]BlueprintLog: New page: Compile ABP_Cat
+[2024.01.04-18.16.50:624][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2024.01.04-18.16.51:202][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-18.16.51:290][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Cat/ABP_Cat
+[2024.01.04-18.16.51:291][709]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/ABP_Cat9293C74A4FDDCDE5B8DB7899FB802BA3.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Blueprints/Characters/Cat/ABP_Cat.uasset'
+[2024.01.04-18.16.51:300][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.86 sec)
+[2024.01.04-18.16.51:303][709]AssetCheck: New page: Asset Save: ABP_Cat
+[2024.01.04-18.16.51:303][709]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Cat/ABP_Cat.ABP_Cat
+[2024.01.04-18.17.19:333][441]BlueprintLog: New page: Compile ABP_Cat
+[2024.01.04-18.17.19:382][441]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2024.01.04-18.17.19:874][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-18.17.19:960][454]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Cat/ABP_Cat
+[2024.01.04-18.17.19:961][454]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/ABP_Cat27F8006C4B5E737D9CEAFBB7B2B56231.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Blueprints/Characters/Cat/ABP_Cat.uasset'
+[2024.01.04-18.17.19:969][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.95 sec)
+[2024.01.04-18.17.19:973][454]AssetCheck: New page: Asset Save: ABP_Cat
+[2024.01.04-18.17.19:973][454]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Cat/ABP_Cat.ABP_Cat
+[2024.01.04-18.18.13:076][ 64]BlueprintLog: New page: Compile BP_Cat
+[2024.01.04-18.18.13:119][ 64]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-18.18.13:200][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.01.04-18.18.13:376][ 65]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-18.18.13:513][ 66]LogViewport: Scene viewport resized to 473x181, mode Windowed.
+[2024.01.04-18.18.38:627][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-18.18.38:700][839]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Cat/BP_Cat
+[2024.01.04-18.18.38:701][839]LogSavePackage: Moving '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/BP_CatA2E98CF546D1FDDD4132EBA16F760490.tmp' to '../../../../../../Users/cheng/Documents/GitHub/UnrealGrupo3/ProyectoUnrealGrupo3/Content/Blueprints/Characters/Cat/BP_Cat.uasset'
+[2024.01.04-18.18.38:707][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.03 sec)
+[2024.01.04-18.18.38:710][839]AssetCheck: New page: Asset Save: BP_Cat
+[2024.01.04-18.18.38:710][839]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/Cat/BP_Cat.BP_Cat
