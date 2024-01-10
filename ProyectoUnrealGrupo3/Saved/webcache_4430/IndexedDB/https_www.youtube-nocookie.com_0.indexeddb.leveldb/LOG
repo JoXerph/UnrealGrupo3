@@ -1,0 +1,15 @@
+2024/01/10-01:38:07.620 36d0 Reusing MANIFEST C:/Users/Asus/Desktop/GITHUB/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-01:38:07.621 36d0 Recovering log #13
+2024/01/10-01:38:07.622 36d0 Reusing old log C:/Users/Asus/Desktop/GITHUB/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000013.log 
+2024/01/10-02:28:57.750 5d28 Level-0 table #17: started
+2024/01/10-02:28:57.761 5d28 Level-0 table #17: 190 bytes OK
+2024/01/10-02:28:57.763 5d28 Delete type=0 #13
+2024/01/10-02:28:57.763 5d28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/10-02:28:57.764 5d28 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/01/10-02:28:57.764 5d28 Compacting 1@1 + 1@2 files
+2024/01/10-02:28:57.775 5d28 Generated table #18@1: 18 keys, 534 bytes
+2024/01/10-02:28:57.775 5d28 Compacted 1@1 + 1@2 files => 534 bytes
+2024/01/10-02:28:57.776 5d28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/10-02:28:57.776 5d28 Delete type=2 #5
+2024/01/10-02:28:57.776 5d28 Delete type=2 #17
+2024/01/10-02:28:57.777 5d28 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2024/01/10-01:38:03.307 2050 Reusing MANIFEST C:/Users/Asus/Desktop/GITHUB/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-01:38:03.307 2050 Recovering log #10
+2024/01/10-01:38:03.308 2050 Reusing old log C:/Users/Asus/Desktop/GITHUB/UnrealGrupo3/ProyectoUnrealGrupo3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2024/01/10-01:38:06.535 1888 Level-0 table #14: started
+2024/01/10-01:38:06.535 1888 Level-0 table #14: 0 bytes OK
+2024/01/10-01:38:06.538 1888 Delete type=0 #10
+2024/01/10-01:38:06.539 1888 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/10-01:38:06.539 1888 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
