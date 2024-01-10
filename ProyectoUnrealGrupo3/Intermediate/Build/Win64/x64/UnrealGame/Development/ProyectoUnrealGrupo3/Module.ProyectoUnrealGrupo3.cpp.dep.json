@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\desktop\\proyectos juegos\\unrealgrupo3\\proyectounrealgrupo3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\proyectounrealgrupo3\\module.proyectounrealgrupo3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuario\\desktop\\proyectos juegos\\unrealgrupo3\\proyectounrealgrupo3\\intermediate\\build\\win64\\x64\\proyectounrealgrupo3\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\usuario\\desktop\\proyectos juegos\\unrealgrupo3\\proyectounrealgrupo3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\proyectounrealgrupo3\\definitions.proyectounrealgrupo3.h",
+            "c:\\users\\usuario\\desktop\\proyectos juegos\\unrealgrupo3\\proyectounrealgrupo3\\intermediate\\source\\proyectounrealgrupo3.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

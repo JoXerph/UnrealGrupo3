@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Usuario\\Desktop\\Proyectos Juegos\\UnrealGrupo3\\ProyectoUnrealGrupo3\\Intermediate\\Source\\ProyectoUnrealGrupo3.Build.cs",
+		"C:\\Users\\Usuario\\Desktop\\Proyectos Juegos\\UnrealGrupo3\\ProyectoUnrealGrupo3\\Intermediate\\Source\\ProyectoUnrealGrupo3.Target.cs",
+		"C:\\Users\\Usuario\\Desktop\\Proyectos Juegos\\UnrealGrupo3\\ProyectoUnrealGrupo3\\Intermediate\\Source\\ProyectoUnrealGrupo3Client.Target.cs",
+		"C:\\Users\\Usuario\\Desktop\\Proyectos Juegos\\UnrealGrupo3\\ProyectoUnrealGrupo3\\Intermediate\\Source\\ProyectoUnrealGrupo3Editor.Target.cs",
+		"C:\\Users\\Usuario\\Desktop\\Proyectos Juegos\\UnrealGrupo3\\ProyectoUnrealGrupo3\\Intermediate\\Source\\ProyectoUnrealGrupo3Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
