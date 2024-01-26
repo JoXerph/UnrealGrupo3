@@ -68,12 +68,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "62495B15E2A6DD725D724F87302AEA01A9ADA9BA",
-			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material"
-			]
-		},
-		{
 			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
@@ -92,6 +86,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DCC4AE190DDDE9ABC4325B58CA374F002EBED08B",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
@@ -101,12 +101,6 @@
 			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "690F911CF32FE4ACF2326FD5C68D0B8ABE7E0EA6",
-			"Assets": [
-				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
 			]
 		},
 		{
@@ -178,6 +172,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D0350135788A414EC7E9516C1214A83C34D57F68",
+			"Assets": [
+				"/Game/Particles/Materials/ParticleSimple_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "86410F37EFDAF045B8080A0026A21B00C790CC38",
+			"Assets": [
+				"/Game/Materials/splash_bottom"
+			]
+		},
+		{
 			"ShaderMapHash": "BE941B38BAA8214B416C5A9570D53166089E31C5",
 			"Assets": [
 				"/Landmass/Landscape/Mats/Debug/Intersections"
@@ -197,12 +203,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "53538A3B4D6862F24F9E2783331763C05282BE51",
-			"Assets": [
-				"/Game/GAME"
-			]
-		},
-		{
 			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -212,6 +212,12 @@
 			"ShaderMapHash": "12C7373D66D6F10F5FA6C5006DCC620397DA866E",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "F58C483DC9585F616DB0A121685639EFCA5BD67F",
+			"Assets": [
+				"/Game/Materials/CartoonWater"
 			]
 		},
 		{
@@ -270,6 +276,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0614C94732A0593169CA92CB6A7DFD205D79FA88",
+			"Assets": [
+				"/Game/GAME"
+			]
+		},
+		{
 			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
@@ -288,6 +300,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9324FA49EAC03A698BE844ADFFD82C24CE0B4A2C",
+			"Assets": [
+				"/Game/DynamicGrassLite/Materials/SimpleGround/GroundGrass_M"
+			]
+		},
+		{
 			"ShaderMapHash": "0033D34A2F4F97C97EA1816078772F0646E9EF89",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -300,15 +318,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C1B55A51F84CDB8186F3487711B523D6343C5968",
+			"Assets": [
+				"/Game/MyMaterials/M_Ring"
+			]
+		},
+		{
 			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
 			"Assets": [
 				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "262AF45D8021CBE75B1289971EA07B71A862696A",
+			"Assets": [
+				"/Game/GAME"
+			]
+		},
+		{
 			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "596722681231C7A74762A1B2CF501C53E42569C3",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -333,15 +369,6 @@
 			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
-			"ShaderMapHash": "486E967231465F06E2CA8E72715360271793C252",
-			"Assets": [
-				"/Game/MyMaterials/SphereInteractive_Blue_Mat",
-				"/Game/MyMaterials/SphereInteractive_Green_Mat",
-				"/Game/MyMaterials/SphereInteractive_Red_Mat",
-				"/Game/MyMaterials/SphereInteractive_Yellow_Mat"
 			]
 		},
 		{
@@ -417,9 +444,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DA46E98FB8CA0A126E93CCBD790650003CF5976A",
+			"ShaderMapHash": "93BEE18D8757C9ADEBB6917283816E8852EEF012",
 			"Assets": [
-				"/Game/MyMaterials/EmissiveMaterial"
+				"/Game/GAME"
 			]
 		},
 		{
@@ -432,6 +459,12 @@
 			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "7EDE8893555C88FC05B82C99C3BD8E458CE688FA",
+			"Assets": [
+				"/Game/MyMaterials/M_Landscape"
 			]
 		},
 		{
@@ -449,8 +482,7 @@
 		{
 			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
 			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Game/MyMaterials/BlackMat"
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
 			]
 		},
 		{
@@ -493,6 +525,19 @@
 			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2E01F2A54A9877EA91352FED2D5EABAA6EE98CD2",
+			"Assets": [
+				"/Game/GAME"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/Blueprints/PolygonSamurai_Mat_01",
+				"/Game/Blueprints/PolygonSamurai_Mat_04"
 			]
 		},
 		{
@@ -680,6 +725,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "653CBEEE447B1913D57F4ECBF191FA9D2FA463C2",
+			"Assets": [
+				"/Game/LocationHDRI/PortalMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "188834F4A2DE8E37F11D7778D1A047EA45C5A7AE",
 			"Assets": [
 				"/Landmass/Landscape/BlueprintBrushes/Materials/Debug/DebugDrawing_CustomBrush"
@@ -695,6 +746,12 @@
 			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "64F389F9E59C820CD93E727364932375B8340C94",
+			"Assets": [
+				"/Game/Materials/SmokeMaterial"
 			]
 		},
 		{
